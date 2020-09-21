@@ -1,3 +1,11 @@
+Relevant links:
+https://github.com/City-of-Helsinki/servicemap-ui/ <br />
+https://github.com/City-of-Helsinki/smbackend/ <br />
+https://github.com/digiaonline/outdoors-sports-map  <br />    
+https://hri.fi/data/fi/dataset/paakaupunkiseudun-palvelukartan-rest-rajapinta <br />    
+https://digitransit.fi/en/developers/  <br />
+https://hri.fi/data/fi/dataset/veden-reaaliaikainen-lampotila-helsingin-uimarannoilla <br />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
